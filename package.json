@@ -1,6 +1,6 @@
 {
   "name": "metal-uri",
-  "version": "2.4.0",
+  "version": "2.4.0-bundler",
   "description": "Class for parsing and formatting URIs.",
   "license": "BSD",
   "repository": "metal/metal-uri",
@@ -8,7 +8,7 @@
     "node": ">=0.12.0",
     "npm": ">=3.0.0"
   },
-  "main": "node.js",
+  "main": "lib/Uri.js",
   "module": "lib/Uri.js",
   "jsnext:main": "src/Uri.js",
   "files": [
